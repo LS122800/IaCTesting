@@ -3,6 +3,8 @@ SUBMISSION: 310
 TITLE: An Exploratory Synthesis of Testing Practices for Infrastructure as Code
 AUTHORS: Mohammed Mehedi Hasan, Farzana Ahmed Bhuiyan and Akond Rahman
 
+
+Making Change for workshop
 ----------- Overall evaluation -----------
 SCORE: -2 (reject)
 ----- TEXT:
